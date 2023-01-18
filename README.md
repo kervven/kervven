@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kerven Kildhery
 - 👀 I’m interested in developer my skills
-- 🌱 I’m currently learning html5, css, js, c
+- 🌱 I’m currently learning html5, css, java
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me by 
 - instagram: @kervven.
