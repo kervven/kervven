@@ -29,7 +29,7 @@ I'm a software resident at Porto Digital</h4>
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=openjdk&logoColor=black"/>
-<img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="JAVA" src="https://img.shields.io/badge/PHP-DD0031?style=for-the-badge&logo=openjdk&logoColor=black"/>
 <img align="right" height="130em" alt="gift" src="https://cdn.discordapp.com/attachments/775940076198297601/1124320480476811306/Design_sem_nome.gif"/>
 </div>
 
