@@ -1,5 +1,5 @@
 <h1 align="center">Kerven Kildhery Silva</h1>
-<h2 align="center">Wellcome to my readme, It's a pleasure to have you here!</h2>
+<h2 align="center">Welcome to my readme, It's a pleasure to have you here!</h2>
 <h4 align="center">I'm a student of systems analysis and development in Brazil.<br>
 Lately I'm studying web development.<br>
 I'm a software resident at Porto Digital</h4>
