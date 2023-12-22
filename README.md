@@ -1,8 +1,15 @@
-<h1 align="center">Kerven Kildhery Silva</h1>
-<h2 align="center">Welcome to my readme, It's a pleasure to have you here!</h2>
-<h4 align="center">I'm a student of systems analysis and development in Brazil.<br>
-Lately I'm studying web development.<br>
-I'm a software resident at Porto Digital</h4>
+👋 Olá, sou Kerven Kildhery Silva!
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no 4º período.
+
+📍 Baseado em Recife, Pernambuco, Brasil.
+
+💻 Residente de software no Porto Digital, focado no desenvolvimento full-stack e outras áreas de TI.
+
+📚 Apaixonado por tecnologia e autodidata, sempre em busca de conhecimento para aprimorar minhas habilidades.
+
+🚀 Vamos criar algo incrível juntos!
+
 
 
 <div align="center">
