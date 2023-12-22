@@ -1,14 +1,15 @@
-👋 Olá, sou Kerven Kildhery Silva!
+👋 Hello, I'm Kerven Kildhery Silva!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no 4º período.
+🎓 Student of Systems Analysis and Development in the 4th semester.
 
-📍 Baseado em Recife, Pernambuco, Brasil.
+📍 From Recife, Pernambuco, Brazil.
 
-💻 Residente de software no Porto Digital, focado no desenvolvimento full-stack e outras áreas de TI.
+💻 Software resident at Porto Digital, focused on full-stack development and other IT areas.
 
-📚 Apaixonado por tecnologia e autodidata, sempre em busca de conhecimento para aprimorar minhas habilidades.
+📚 Passionate about technology and self-taught, always seeking knowledge to enhance my skills.
 
-🚀 Vamos criar algo incrível juntos!
+🚀 Let's create something amazing together!
+
 
 
 
