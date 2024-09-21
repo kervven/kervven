@@ -1,6 +1,6 @@
 👋 Hello, I'm Kerven Kildhery Silva!
 
-🎓 Systems Analysis and Development Student in the 4th semester.
+🎓 Systems Analysis and Development Student in the 5th semester.
 
 📍 From Recife, Pernambuco, Brazil.
 
