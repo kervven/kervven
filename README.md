@@ -1,10 +1,8 @@
 👋 Hello, I'm Kerven Kildhery Silva!
 
-🎓 Systems Analysis and Development Student in the 5th semester.
+💻 ServiceNow Developer and System Analyst at Deloitte
 
 📍 From Recife, Pernambuco, Brazil.
-
-💻 Software resident at Porto Digital, focused on full-stack development and other IT areas.
 
 📚 Passionate about technology and self-taught, always seeking knowledge to enhance my skills.
 
