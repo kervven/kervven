@@ -1,6 +1,6 @@
 👋 Hello, I'm Kerven Kildhery Silva!
 
-💻 ServiceNow Developer and System Analyst at Deloitte
+💻 ServiceNow Developer and Systems Analyst at Deloitte
 
 📍 From Recife, Pernambuco, Brazil.
 
