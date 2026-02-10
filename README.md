@@ -12,12 +12,6 @@
 
 
 <div align="center">
-<a href="https://github.com/kervven">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=kervven&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kervven&layout=compact&langs_count=20&theme=tokyonight"/>
-</div>
-
-<div align="center">
 <a href="https://www.linkedin.com/in/kerven-kildhery">
 <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
